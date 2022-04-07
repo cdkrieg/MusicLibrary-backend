@@ -1,9 +1,10 @@
 const express = require("express");
 const cors = require("cors");
 const repoContext = require("./repository/repository-wrapper");
+const app = express();
 const songValidate = require("./middleware/song-validation");
 const songLogger = require("./middleware/song-logger");
-const app = express();
+
 
 
 //Middleware
