@@ -198,5 +198,53 @@
     "artist": "Def Leppard",
     "genre": "Pop Rock",
     "releaseDate": "9/8/1987"
+  },
+  {
+    "id": 26,
+    "title": "Hysteria",
+    "album": "Hysteria",
+    "artist": "Def Leppard",
+    "genre": "Rock",
+    "releaseDate": "9/8/1987"
+  },
+  {
+    "id": 27,
+    "title": "Rocket",
+    "album": "Hysteria",
+    "artist": "Def Leppard",
+    "genre": "Rock",
+    "releaseDate": "9/8/1987"
+  },
+  {
+    "id": 28,
+    "title": "Women",
+    "album": "Hysteria",
+    "artist": "Def Leppard",
+    "genre": "Rock",
+    "releaseDate": "9/8/1987"
+  },
+  {
+    "id": 29,
+    "title": "Armageddon It",
+    "album": "Hysteria",
+    "artist": "Def Leppard",
+    "genre": "Rock",
+    "releaseDate": "9/8/1987"
+  },
+  {
+    "id": 30,
+    "title": "Gods of War",
+    "album": "Hysteria",
+    "artist": "Def Leppard",
+    "genre": "Rock",
+    "releaseDate": "9/8/1987"
+  },
+  {
+    "id": 31,
+    "title": "Don't Shoot Shotgun",
+    "album": "Hysteria",
+    "artist": "Def Leppard",
+    "genre": "Rock",
+    "releaseDate": "9/8/1987"
   }
 ]

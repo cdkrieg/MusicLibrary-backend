@@ -29,6 +29,7 @@ app.get("/api/music/:id", (req, res) => {
 app.post("/api/music",[songLogger,songValidate], (req,res) => {
     const newSong = req.body;
     const addedSong = repoContext.songs.createSong(newSong);
+    console.log(req)
     return res.status(201).send(addedSong);
 })
 
